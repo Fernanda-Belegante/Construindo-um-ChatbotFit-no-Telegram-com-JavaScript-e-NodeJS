@@ -1,0 +1,2 @@
+# Construindo-um-ChatbotFit-no-Telegram-com-JavaScript-e-NodeJS
+Nesse projeto desenvolvi um projeto de “Chatbot no Telegram com JavaScript e NodeJS” ao qual você pratiquei e apliquei os conceitos de integração e buscas de vídeos de exercícios físicos no YouTube utilizando uma plataforma de entendimento de linguagem natural chamada DialogFlow. Demonstrei a minha capacidade criativa para transformar a base do projeto apresentada nesta sessão em um desenvolvimento inovador.
